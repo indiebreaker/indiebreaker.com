@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/helloworld/</loc>
+    <loc>http://indiebreaker.com/posts/helloworld/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://indiebreaker.com/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://indiebreaker.com/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>http://indiebreaker.com/archives/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://indiebreaker.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>http://indiebreaker.com/search/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://indiebreaker.com/tags/</loc>
   </url>
 </urlset>

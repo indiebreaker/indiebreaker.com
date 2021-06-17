@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://indiebreaker.com/
 languageCode: en-us
 title: Indie Breaker
 theme: "PaperMod"
@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: Indie Breaker
+  description: "Product building | Data Science | Machine Learning | Data Engineering"
+  keywords: [Blog, Data Science, Machine Learning, Data Engineering, Javascript]
+  author: IndieBreaker
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
